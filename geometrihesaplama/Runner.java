@@ -7,7 +7,11 @@ public class Runner {
         cember.cevreHesaplama();
         cember.alanHesaplama();
 
+
+         System.out.println(cember);
+
         System.out.println(cember);
+
 
 
         Kare kare=new Kare(10,10);
